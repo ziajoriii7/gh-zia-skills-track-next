@@ -1,7 +1,9 @@
 # gh-zia-track-skills-next
 
 ## scripting
-- Powershell Core
+
+- [powershell-core](./powershell-core/README.md)
+  - 
 - Clink
 
 ## tooling
